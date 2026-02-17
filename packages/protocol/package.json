@@ -59,7 +59,7 @@
     "@web5/credentials": "1.0.3",
     "@web5/crypto": "1.0.1",
     "@web5/dids": "1.1.1",
-    "ajv": "8.12.0",
+    "ajv": "8.18.0",
     "bignumber.js": "^9.1.2",
     "canonicalize": "2.0.0",
     "lodash": "^4.17.21",
